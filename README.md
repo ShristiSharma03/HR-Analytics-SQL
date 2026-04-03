@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -88,7 +87,7 @@ Run retention campaigns and salary reviews in Q4 before the spike hits.
 
 ---
 
-## 🔍 SQL Analysis — 25 Business Driven Queries
+## 🔍 SQL Analysis — 24 Business Driven Queries
 
 > Every query answers a real business question — not just practice exercises.
 
@@ -169,7 +168,7 @@ HR-Analytics-SQL/
 │     ├── attrition.csv
 │     └── recruitements.csv
 │
-├── 📁 SQL_Queries/           ← All 25 SQL queries
+├── 📁 SQL_Queries/           ← All 24 SQL queries
 │     └── hr_Analytics_project.sql
 │
 ├── 📁 Dashboard/             ← Power BI files
@@ -194,7 +193,7 @@ HR-Analytics-SQL/
 ## 👩‍💻 About The Author
 
 **Shristi Sharma**
-Aspiring Data Analyst | Turning raw data into business decisions
+BSc Computer Science Graduate | MYSQL | POWERBI | Turning raw data into business decisions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shristi-sharma-0a4367370/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShristiSharma03)
